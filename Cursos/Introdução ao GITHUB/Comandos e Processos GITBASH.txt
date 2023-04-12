@@ -1,0 +1,5 @@
+git clone + link = importa repositório do github
+git status = resumo do status atual do repositório
+git add . = adiciona oficialmente as alterações locais
+git commit -m "mensagem" = commita as mudanças no repositório, comando m "mensagem" para adicionar com comentário
+git push = exporta repositório de volta ao github
