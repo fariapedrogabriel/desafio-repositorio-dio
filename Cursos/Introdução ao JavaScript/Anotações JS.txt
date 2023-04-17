@@ -1,0 +1,19 @@
+Anotações sobre JS;
+
+Comandos:
+const = constante, inalterável
+let = varíavel dentro do escopo do bloco
+var = variável em escopo global
+/* */ = Adicionar Comentário Geral
+// = Adicionar Comentário Sobre Linha
+console.log () = Imprimir
+\n = quebra de linha (É possível utilizar repetidamente para quebrar mais linhas)
+
+Dicas:
+- Utilizar Number() para ficar melhor definido
+- Você pode utilizar 'texto'+ para adicionar uma escrita antes de imprimir o resultado desejado
+- Utilizar espaço entre sinais e cálculos para facilitar a leitura
+- Fazer quebra entre palavras utilizando primeiro caracter de cada uma revezando entre maiúsculo e minúsculo
+- Adicionar comentários explicando o código de forma geral (Introdução e Conclusão) e linhas do cógido para facilitar o entendimento
+
+
