@@ -8,6 +8,7 @@ var = variável em escopo global
 // = Adicionar Comentário Sobre Linha
 console.log () = Imprimir
 \n = quebra de linha (É possível utilizar repetidamente para quebrar mais linhas)
+toFixed(numero) = transforma o resultado em texto, o "número" define quantas casas decimais serão apresentadas
 
 Dicas:
 - Utilizar Number() para ficar melhor definido
@@ -15,5 +16,5 @@ Dicas:
 - Utilizar espaço entre sinais e cálculos para facilitar a leitura
 - Fazer quebra entre palavras utilizando primeiro caracter de cada uma revezando entre maiúsculo e minúsculo
 - Adicionar comentários explicando o código de forma geral (Introdução e Conclusão) e linhas do cógido para facilitar o entendimento
-
+- Ao inserir o toFixed.(2) foi necessário colocar a conta que seria realizada dentro de outros (2) além do que já tinha contendo as informações de textos que seriam impressas
 
