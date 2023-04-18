@@ -1,0 +1,15 @@
+18/04
+
+Estive com um problema que me custou horas de estudo, ao testar o node pelo Visual Code Studio recebia sempre a mensagem
+de "modulo não encontrado", procurei por N sites de programação e codificação, testei várias formas de teoricamente 
+resolver o problema, vi milhares de pessoas na mesma situação e por fim, o único problema que pelo menos eu estava encontrando
+é que ao dar o comando "$ node Aula 1/Aula 2/etc..." o que acontecia é que eu não sabia (por falta de instrução) que o comando
+não lê espaço, então todo o tempo ele estava chamando sempre a "Aula.js" pois a palavra para o leitor acabava no primeiro
+espaço... por isso quando eu criava um arquivo com esse nome, ele que era lido, independente da pasta que estava aberta.
+
+Não sei se outras pessoas que diziam estar passando pelo mesmo problema sofriam de algo tão simplório, causado pela falta
+de informação, os cursos que estou vendo e fazendo inclusive não passam por uma aula sobre a plataforma primeiro, vão
+direto para as aulas de codificação etc... mas enfim, fico feliz que agora, quase 4 horas da manhã, descobri esse erro tão
+besta e vou poder voltar aos estudos.
+
+Deixarei esse momento salvo para um dia ler e dar risada e não cair no mesmo caso, espero.
