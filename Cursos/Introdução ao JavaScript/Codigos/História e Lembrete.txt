@@ -13,3 +13,4 @@ direto para as aulas de codificação etc... mas enfim, fico feliz que agora, qu
 besta e vou poder voltar aos estudos.
 
 Deixarei esse momento salvo para um dia ler e dar risada e não cair no mesmo caso, espero.
+Agora descobri que na verdade posso acionar o "node" em arquivos com espaços no nome, colocando-os entre ""!
