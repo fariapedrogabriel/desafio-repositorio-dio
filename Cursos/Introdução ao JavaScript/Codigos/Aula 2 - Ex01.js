@@ -13,9 +13,9 @@ Classificação:
 console.log('Código para Calcular Média Semestral e Aprovação/Recuperação/Reprovação\n');
 
 //Definindo as variáveis;
-let notaP1 = Number(3);
-let notaP2 = Number(10);
-let notaP3 = Number(10);
+let notaP1 = Number(7);
+let notaP2 = Number(7);
+let notaP3 = Number(7);
 let mediaSemestral = Number(notaP1 + notaP2 + notaP3) / 3;
 
 //Apresentando o aluno e suas notas + média semestral;
@@ -28,7 +28,7 @@ console.log('Média Aluno X: ' + mediaSemestral.toFixed(2));
 //Definindo/Calculando as condicionais e imprimindo o resultado;
 if (mediaSemestral < 5 ) {
     console.log('Reprovado');
-}   else if (mediaSemestral >= 5 && mediaSemestral < 7) {
+}   else if (mediaSemestral >= 5 && mediaSemestral <= 7) {
     console.log('Recuperação');
 }   else {
     console.log('Aprovado');
