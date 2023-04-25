@@ -19,10 +19,10 @@ IMC em adultos Condição:
 console.log('Calculando o IMC de uma pessoa adulta\n');
 
 //Definindo as Variáveis e apresentando o Indivíduo em questão;
-const individuo = 'Pedro';
-let idade = Number(31);
-let altura = Number(1.69);
-let peso = Number(78);
+const individuo = 'Anna';
+let idade = Number(27);
+let altura = Number(1.67);
+let peso = Number(45.5);
 let imc = (peso / (altura * altura));
 
 console.log('Indivíduo: ' + individuo);

@@ -1,6 +1,6 @@
 
 
-const numero = 0;
+const numero = 10;
 
 const isDivisivelPor5 = (numero) % 5 === 0;
 //poderia adicionar um "console.log("Resultado:\n" + numeroPar);" para imprimir o "resultado", mas deixei oculto para diminuir as informações apresentadas
