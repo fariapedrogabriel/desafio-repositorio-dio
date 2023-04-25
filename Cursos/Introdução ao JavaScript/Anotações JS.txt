@@ -9,6 +9,28 @@ var = variável em escopo global
 console.log () = Imprimir
 \n = quebra de linha (É possível utilizar repetidamente para quebrar mais linhas)
 toFixed(numero) = transforma o resultado em texto, o "número" define quantas casas decimais serão apresentadas
+% = resto da divisão, por exemplo "numero % 2" = resto da divisão de um número por 2, se for maior que 0, sabemos que é impar
+= = atribuição, atribui um valor a variável por exemplo
+== = igualdade, ignora o tipo da variável, pode comparar um número com texto, converte o texto pra número se necessário
+=== = o que mais usa, não funciona pra comparar número com texto por exemplo, ele compara tipos iguais
+if () {
+                
+}      = Sempre escrito assim, if, um paretenses e um trecho de código, é um fator "se"
+Exemplo: if (numeroPar) {
+             console.log('Vai executar o que está dentro do trecho de código')   
+}      
+
+!antesdonome = converte para o oposto, por exemplo, se mandei imprimir numeroPar, posso por um ! antes para imprimir caso seja impar
+else = "se não", para contrapor o "if", usado na sequência do fim do código "if"
+Exemplo: if (numeroPar) {
+             console.log('Vai executar o que está dentro do trecho de código')   
+} else {
+             console.log('Vai executar o que está dentro do outro trecho de código')
+}     
+else if = Podemos utilizá-lo colocando um "if" e se este não for cumprido, iniciará uma nova condição do zero, onde podemos por adiante outro "else" como a segunda opção da segunda condição
+Math.pow(numero,numero) = Potencializa o primeiro número pelo segundo, usado para por exemplo fazer um número algo cubo
+Exemplo: Math.pow(2 (ou var numero),3) = 2³
+
 
 Dicas:
 - Utilizar Number() para ficar melhor definido
@@ -17,4 +39,11 @@ Dicas:
 - Fazer quebra entre palavras utilizando primeiro caracter de cada uma revezando entre maiúsculo e minúsculo
 - Adicionar comentários explicando o código de forma geral (Introdução e Conclusão) e linhas do cógido para facilitar o entendimento
 - Ao inserir o toFixed.(2) foi necessário colocar a conta que seria realizada dentro de outros (2) além do que já tinha contendo as informações de textos que seriam impressas
-
+- Bom sempre colocar as contas entre ()
+- Condicional vai retornar sempre um verdadeiro ou falso
+- Podemos adicionar quantos "else if" quisermos, fica um pouco confuso para ler, mas sempre iniciará uma condição nova, onde podemos por um "else" em sequência para ser a segunda opção dessa nova condição 
+- "If" para começar, "else if" para iniciar outra condição e "else" para fechar a última condição como segunda opção
+- Estrutura utilizada em todas as linguagens de programação
+- Variáveis booleanas guardam informação de "verdadeiro" ou "falso
+- Geralmente iniciamos variáveis boolenas com "isVariavel"
+- Normalmente tudo maiúsculo utilizamos quando queremos uma constante fixa, como PI = 3,14 também chamado como magic number
