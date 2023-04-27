@@ -14,6 +14,6 @@ let valorOriginal = Number(3000);
 let valorJuros = Number(14);
 
 //Imprimindo o resultado chamando pela Função e Variáveis, sem necessidade de inserir números nessa parte;
-console.log('Valor de Etiqueta: ' + valorOriginal);
+console.log('\nValor de Etiqueta: ' + valorOriginal);
 console.log('Porcentagem de Juros: ' + valorJuros);
 console.log('Valor Corrigido: ' + percentualJuros(valorOriginal, valorJuros));
