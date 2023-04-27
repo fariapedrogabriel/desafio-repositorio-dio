@@ -30,6 +30,14 @@ Exemplo: if (numeroPar) {
 else if = Podemos utilizá-lo colocando um "if" e se este não for cumprido, iniciará uma nova condição do zero, onde podemos por adiante outro "else" como a segunda opção da segunda condição
 Math.pow(numero,numero) = Potencializa o primeiro número pelo segundo, usado para por exemplo fazer um número algo cubo
 Exemplo: Math.pow(2 (ou var numero),3) = 2³
+function nomeDaFuncao(nome, idade){
+	console.log(`Olá ${Pedro}, você tem ${idade} anos, certo?`)
+}
+
+nomeDaFuncao(Pedro, 31);
+= Vai retornar 'Olá Pedro, você tem 35 anos, certo?'
+Template Literals = Você pode utilizar ${nome} para chamar uma variável e por exemplo, escrever console.log(`Olá ${nome} tudo bom?`) sem a necessidade de utilizar "+"
+
 
 
 Dicas:
@@ -47,3 +55,7 @@ Dicas:
 - Variáveis booleanas guardam informação de "verdadeiro" ou "falso
 - Geralmente iniciamos variáveis boolenas com "isVariavel"
 - Normalmente tudo maiúsculo utilizamos quando queremos uma constante fixa, como PI = 3,14 também chamado como magic number
+- Podemos escrever usando Aspas Simples, Duplas ou Template Literals, dependendo do contexto, para deixar o código mais limpo
+- Podemos guardar a execução de uma função dentro da outra se queremos que a segunda seja executada ao chamar a primeira, do contrário só vai ser executada a função chamada
+- Quando usamos parâmetros de função, não precisamos declará-los como variáveis pois dentro do escopo da função eles já serão considerados variáveis
+- Utilizando Template Literals poupamos a utilização de Vários "+" 
