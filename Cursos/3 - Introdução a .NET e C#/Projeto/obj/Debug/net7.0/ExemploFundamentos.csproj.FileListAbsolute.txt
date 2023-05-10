@@ -1,0 +1,15 @@
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\bin\Debug\net7.0\ExemploFundamentos.exe
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\bin\Debug\net7.0\ExemploFundamentos.deps.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\bin\Debug\net7.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\bin\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\bin\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.csproj.AssemblyReference.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\refint\ExemploFundamentos.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Projeto\obj\Debug\net7.0\ref\ExemploFundamentos.dll
