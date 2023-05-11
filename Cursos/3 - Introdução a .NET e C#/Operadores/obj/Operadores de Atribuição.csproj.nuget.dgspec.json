@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Aula 1 - Classe e Objeto\\Aula 1 - Classe e Objeto.csproj": {}
+    "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Operadores\\Operadores de Atribuição.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Aula 1 - Classe e Objeto\\Aula 1 - Classe e Objeto.csproj": {
+    "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Operadores\\Operadores de Atribuição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Aula 1 - Classe e Objeto\\Aula 1 - Classe e Objeto.csproj",
-        "projectName": "Aula 1 - Classe e Objeto",
-        "projectPath": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Aula 1 - Classe e Objeto\\Aula 1 - Classe e Objeto.csproj",
+        "projectUniqueName": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Operadores\\Operadores de Atribuição.csproj",
+        "projectName": "Operadores de Atribuição",
+        "projectPath": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Operadores\\Operadores de Atribuição.csproj",
         "packagesPath": "C:\\Users\\peega\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Aula 1 - Classe e Objeto\\obj\\",
+        "outputPath": "C:\\Users\\peega\\Desktop\\Estudo code\\desafio-repositorio-dio\\desafio-repositorio-dio\\Cursos\\3 - Introdução a .NET e C#\\Operadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peega\\AppData\\Roaming\\NuGet\\NuGet.Config"

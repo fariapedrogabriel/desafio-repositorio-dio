@@ -1,0 +1,30 @@
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\bin\Debug\net7.0\Operadores de Atribuição.exe
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\bin\Debug\net7.0\Operadores de Atribuição.deps.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\bin\Debug\net7.0\Operadores de Atribuição.runtimeconfig.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\bin\Debug\net7.0\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\bin\Debug\net7.0\Operadores de Atribuição.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.csproj.AssemblyReference.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.AssemblyInfoInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.AssemblyInfo.cs
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\refint\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\Operadores de Atribuição.genruntimeconfig.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores de Atribuição\obj\Debug\net7.0\ref\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\bin\Debug\net7.0\Operadores de Atribuição.exe
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\bin\Debug\net7.0\Operadores de Atribuição.deps.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\bin\Debug\net7.0\Operadores de Atribuição.runtimeconfig.json
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\bin\Debug\net7.0\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\bin\Debug\net7.0\Operadores de Atribuição.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.csproj.AssemblyReference.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.AssemblyInfoInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.AssemblyInfo.cs
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\refint\Operadores de Atribuição.dll
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.pdb
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\Operadores de Atribuição.genruntimeconfig.cache
+C:\Users\peega\Desktop\Estudo code\desafio-repositorio-dio\desafio-repositorio-dio\Cursos\3 - Introdução a .NET e C#\Operadores\obj\Debug\net7.0\ref\Operadores de Atribuição.dll

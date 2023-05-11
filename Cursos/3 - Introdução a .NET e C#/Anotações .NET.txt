@@ -1,2 +1,8 @@
 - Sempre que for usar um comando .net, começar com donet + comando
 - Console é um tipo de projeto .net
+- Convenção de C# é começar nome de Classes com Maiúsculo
+- Você pode usar palavras bloqueadas (as do próprio C#) utilizando @ no começo da palavra
+- Aspas simples apenas para único caráctere
+- Aspas duplas para strings literais
+- No C# você usa "." para dar continuidade, exemplo "pessoa1.comando" e sempre finaliza com ";"
+
