@@ -5,4 +5,5 @@
 - Aspas simples apenas para único caráctere
 - Aspas duplas para strings literais
 - No C# você usa "." para dar continuidade, exemplo "pessoa1.comando" e sempre finaliza com ";"
+- Quando usamos o TryParse, escolhemos uma opção e depois colocamos como "out" uma saída alternativa para caso não seja possível a conversã
 
