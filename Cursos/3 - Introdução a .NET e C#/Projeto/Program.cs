@@ -1,16 +1,19 @@
 ﻿/*using ExemploFundamentos.Models;
 
-Pessoa pessoa1 = new Pessoa();
+Pessoa p1 = new Pessoa();
 
-pessoa1.Nome = "Pedro";
-pessoa1.Idade = 31;
-pessoa1.Apresentar();
+//Atribuindo "SET"/propriedades a p1;
+p1.Nome = "Pedro";
+p1.Sobrenome = "Vieira";
+p1.Idade = 1;
+p1.Apresentar();
+//Aqui estamos "GET" o valor atribuído;
 
-Pessoa pessoa2 = new Pessoa();
+Pessoa p2 = new Pessoa();
 
-pessoa2.Nome = "Gabriel";
-pessoa2.Idade = 30;
-pessoa2.Apresentar();
+p2.Nome = "Gabriel";
+p2.Idade = 30;
+p2.Apresentar();
 
-***Deixei esse código como comentário para parar de acusar erro com o outro código na pasta
+//Deixei esse código como comentário para parar de acusar erro com o outro código na pasta;"
 */
