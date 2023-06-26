@@ -11,7 +11,7 @@ namespace ExemploFundamentos.Models{
         //Lista de Pessoas, só vai aceitar objetos tipo Pessoa;
 
         public void AddAluno(Pessoa aluno){
-            /*public == privado ou público
+        /*public == privado ou público
         void == tipo de Método/Retorno, nesse caso, ele não retorna nada. No caso da calculadora ele trazia o resultado, porém 
         nesse, só queremos que adicione um aluno. "VOID" significa vazio, ou seja, não retorna nada;
         AddAluno == Nome do Método;
@@ -39,6 +39,16 @@ namespace ExemploFundamentos.Models{
         /*Vazio se não precisarmos de retorno, apenas da função de remoção executada;
         No caso, colocamos como booleano e o return a função do scopo, que vai retornar como TRUE se o método REMOVE for executado e FALSE, do contrário;
         */
+        }
+
+        public void ListarAlunos(){
+            Console.WriteLine($"Alunos do curso de {Nome}:");
+
+            for (int count = 0; count < Alunos.Count; count++)
+            {
+                string texto = $"Nº {count} - {(Alunos[count].NomeCompleto)} " ;
+                Console.WriteLine(texto);
+            }
         }
     }
 

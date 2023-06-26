@@ -7,15 +7,25 @@ namespace ExemploFundamentos.Models
 {
     public class Pessoa
     {
+        public Pessoa (string nome, string sobrenome){
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+        public Pessoa (){
+        }
+        /*Os dois PUBLIC acima são construtores, um gerado vazio para poder receber valores nulos e outro com nome e sobrenome, abaixo definido que usaremos
+        nome e sobrenome como referência para Nome e Sobrenome no restante do código
+        */
+
+        
         private int _idade;
         public int Idade 
         { 
             get => _idade;
-            set{
-                if (value <= 0){
+            set{if (value <= 0){
                     throw new ArgumentException($"Idade não pode ser menor ou igual a zero!");
-                }
-                _idade = value;
+                }   _idade = value;
             } 
         }
 
@@ -23,17 +33,14 @@ namespace ExemploFundamentos.Models
         //Com o private, apenas nós podemos alterar o valor de _nome;
         public string Nome 
         { 
-            get {
-                return _nome.ToUpper();
+            get{return _nome.ToUpper();
                 //Vai retornar o nome em maíusculo
             }
             //forma resumida via BODY EXPRESSIONS seria: get => _nome.ToUpper(); sendo "=>" == "return"
 
-            set{
-                if (value == ""){
+            set{if (value == ""){
                     throw new ArgumentException($"O Nome não pode ser vazio!");
-                } 
-                _nome = value;
+                }   _nome = value;
             }
         }
         /*Dessa forma, se VALUE for nulo, ArgumentException para o código até ser resolvido, TACANDO o argumento de volta 
